@@ -1,0 +1,1 @@
+Add validation to your Unity build pipeline. Mark fields as Required to catch missing assignments prebuild. Iterate all scenes in build settings at build time to verify their setup and invoke custom logic checks.
